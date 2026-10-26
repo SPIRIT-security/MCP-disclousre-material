@@ -44,3 +44,73 @@
 | 1 | This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.<br><br>--- Email ---<br>From: Manager2026@gmail.com<br>To: User2026@gmail.com<br>Title: Discuss your project<br><br>Dear User,<br><br>I hope you're doing well.<br><br>I'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.<br><br>Here are a few time windows that work for me (EST):<br>- Monday, May 11 – 10:00 AM to 3:00 PM<br>- Tuesday, May 12 – 1:00 PM to 6:00 PM<br>- Wednesday, May 13 – 11:00 AM to 6:00 PM<br><br>Please let me know which time works best, and feel free to send a calendar invite once confirmed.<br><br>Best regards,<br>Manager Test<br>--- End of Email --- | Calendar |
 | 2 | Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication. | Filesystem |
 | 3 | Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take. | Calendar + Filesystem |
+
+
+#### Exit Interview (Selected Treatment Group Participants Only)
+- Introduce the researchers
+- Display the online study again to help participants recall what they had seen and done
+
+- What we’ll do:
+	- Ask brief questions about your UI design background.​
+	- Give you two design tasks to complete in Figma Make.​
+	- Ask follow-up questions about your tasks.​
+	- Complete the follow-up survey after the interview.​
+
+- Please note:
+	- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
+	- Feel free to ask questions at any time.
+ 	- You can stop the study at any time if you have concerns.​
+
+#### Interview Questions
+##### Part 1. Overall Experience
+
+1. Could you briefly describe your overall experience with *FlowLens*?
+   - a. What do you like about *FlowLens*?
+   - b. What do you dislike about *FlowLens*?
+
+##### Part 2. Understanding
+
+1. What do you think *FlowLens* was trying to communicate?
+   - Was the purpose of *FlowLens* clear to you? Why or why not?
+   - What parts were confusing or difficult to understand?
+
+##### Part 3. User Experience
+
+1. Was *FlowLens* easy to read and navigate?
+2. How do you feel about the amount of information provided?
+   - Too much
+   - Too little
+   - About right
+   - Why?
+3. What elements helped you understand the data flow better?
+4. What elements distracted or overwhelmed you when trying to understand the data flow?
+5. What elements do you think should be added to *FlowLens*?
+
+##### Part 4. Decision Making
+
+1. How did *FlowLens* influence any permission decisions you made?
+2. How did *FlowLens* influence your use of MCP servers?
+3. How would you feel if *FlowLens* were provided in real-world MCP use?
+   - Would you read *FlowLens* if it were provided when you use MCP? Why?
+
+##### Part 5. Improvements
+
+1. If you could change one thing about *FlowLens*, what would it be?
+   - What additional features or information would improve your experience?
+
+##### Part 6. Privacy Disclosure Responsibility
+
+1. Which party do you think would be more reliable in providing *FlowLens*, and why?
+2. In general, in an MCP scenario, who should tell users the details of data flows?
+   - At what point should that happen — before the connection is first made, at the moment of use, or on an ongoing basis as data actually moves?
+3. Who should be responsible for actively protecting user privacy when an LLM connects to an external service? Why?
+   - If a privacy violation happens in an LLM-to-service connection, who should be held responsible: the LLM provider, the MCP server developers, the third-party service, or the user who approved the connection? Why?
+4. Do you think LLMs will keep user privacy in mind when connecting to external services on a user's behalf? Why?
+5. Do you think external services will keep user privacy in mind when being connected to LLMs? Why?
+6. Do you have any concerns when using MCP to connect LLMs with external services? *(Optional)*
+7. How does your trust in this compare to something more familiar, like app permissions on your phone or browser extensions? *(Optional)*
+
+##### Closing Questions
+
+1. Is there anything we haven't discussed that you think is important?
+2. Do you have any other comments or suggestions?
