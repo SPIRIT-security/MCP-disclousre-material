@@ -37,3 +37,36 @@
 	(A) yes (B) no <br>
 13. Thanks very much for your interest in our study. We will contact you to schedule the study. Please enter an email address by which we can contact you. [open text box] <br>
 14. If you have any other questions or information, please enter them here. [open text box] <br>
+
+#### Online Study
+Prompt used in Study <br>
+1. This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.
+
+--- Email ---
+From: Manager2026@gmail.com
+To: User2026@gmail.com
+Title: Discuss your project
+
+Dear User,
+
+I hope you're doing well.
+
+I'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.
+
+Here are a few time windows that work for me (EST):
+- Monday, May 11 – 10:00 AM to 3:00 PM
+- Tuesday, May 12 – 1:00 PM to 6:00 PM
+- Wednesday, May 13 – 11:00 AM to 6:00 PM
+
+Please let me know which time works best, and feel free to send a calendar invite once confirmed.
+
+Best regards,
+Manager Test
+--- End of Email ---
+
+2. Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication.
+
+3. Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take.
+
+给我把三个prompt生成一个markdown表格，然后还有一列对应使用的MCP server Category
+
