@@ -52,13 +52,10 @@
 - Display the online study again to help participants recall what they had seen and done
 
 - What we’ll do:
-	- Ask brief questions about your UI design background.​
-	- Give you two design tasks to complete in Figma Make.​
-	- Ask follow-up questions about your tasks.​
-	- Complete the follow-up survey after the interview.​
+	- Ask brief questions about your feedback.​
 
 - Please note:
-	- There is no right or wrong. We will not evaluate your design. Our goal is to understand your perceptions and practices.
+	- There is no right or wrong. We will not evaluate your answer. Our goal is to understand your perceptions and practices.
 	- Feel free to ask questions at any time.
  	- You can stop the study at any time if you have concerns.​
 
