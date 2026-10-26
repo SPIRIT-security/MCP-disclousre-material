@@ -21,7 +21,7 @@
   (B) By manually editing a configuration file (e.g., claude_desktop_config.json, mcp.json). <br>
   (C) Through a command-line tool (e.g., Claude Code CLI, npx command). <br>
   (D) Through a third-party browser extension (e.g., MCP SuperAssistant or similar tools that bring MCP to web-based chat interfaces). <br>
-  (E) I am not sure
+  (E) I am not sure. <br>
 [If "<18" to Q1 or "I have never used any LLMs/MCP servers" to Q2 or Q7, quit the survey and thank the participant] <br>
 9. What is your gender identity?<br>
 	(A) Male (B) Female (C) Non-binary (D) Prefer not to say <br>
