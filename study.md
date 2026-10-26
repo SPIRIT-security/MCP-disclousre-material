@@ -26,17 +26,18 @@
 9. What is your gender identity?<br>
 	(A) Male (B) Female (C) Non-binary (D) Prefer not to say <br>
 10. Choose one or more races that you consider yourself to be. <br>
-  (A) White or Caucasian (B) Black or African American (C) American Indian/Native American or Alaska Native (D) Asian (E) Native Hawaiian or Other Pacific Islander (F) Other (G) Prefer not to say <br>
-11. What is the highest level of education you have completed?<br>
+  (A) White or Caucasian (B) Black or African American (C) American Indian/Native American or Alaska Native (D) Asian <br>
+  (E) Native Hawaiian or Other Pacific Islander (F) Other (G) Prefer not to say <br>
+12. What is the highest level of education you have completed?<br>
   (A) Some high school or less (B) High school diploma or GED <br>
   (C) Some college, but no degree (D) Associates or technical degree<br>
   (E) Bachelor’s degree <br>
   (F) Graduate or professional degree (MA, MS, MBA, PhD, JD, MD, DDS, etc.)<br>
   (G) Prefer not to say <br>
-12. Are you able to participate in the study via Zoom?<br>
+13. Are you able to participate in the study via Zoom?<br>
 	(A) yes (B) no <br>
-13. Thanks very much for your interest in our study. We will contact you to schedule the study. Please enter an email address by which we can contact you. [open text box] <br>
-14. If you have any other questions or information, please enter them here. [open text box] <br>
+14. Thanks very much for your interest in our study. We will contact you to schedule the study. Please enter an email address by which we can contact you. [open text box] <br>
+15. If you have any other questions or information, please enter them here. [open text box] <br>
 
 #### Online Study
 | # | Prompt | MCP Server Category |
