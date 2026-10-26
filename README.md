@@ -9,13 +9,15 @@ Contents
 
 The repository includes the following resources:
 
-1. Anonymized codebook
+1. Anonymized Codebook
 
+The anonymized codebook used for the qualitative analysis of the exit interviews is provided in codebook.pdf.
+It lists the themes and codes we identified, with a definition for each code and representative participant quotes. All personally identifiable information has been removed, and participants are referred to by ID only (e.g., P1, P2).
 
 2. Study Procedure
 
-The complete study procedure is fully described in detail in study.md.
-These are provided to support reproducibility and transparency in the research methodology.
+The complete study procedure is described in detail in study.md.
+These materials are provided to support reproducibility and transparency in the research methodology.
 
 Ethical Considerations
 
