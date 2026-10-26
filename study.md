@@ -39,33 +39,8 @@
 14. If you have any other questions or information, please enter them here. [open text box] <br>
 
 #### Online Study
-Prompt used in Study <br>
-1. This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.
-
---- Email ---
-From: Manager2026@gmail.com
-To: User2026@gmail.com
-Title: Discuss your project
-
-Dear User,
-
-I hope you're doing well.
-
-I'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.
-
-Here are a few time windows that work for me (EST):
-- Monday, May 11 – 10:00 AM to 3:00 PM
-- Tuesday, May 12 – 1:00 PM to 6:00 PM
-- Wednesday, May 13 – 11:00 AM to 6:00 PM
-
-Please let me know which time works best, and feel free to send a calendar invite once confirmed.
-
-Best regards,
-Manager Test
---- End of Email ---
-
-2. Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication.
-
-3. Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take.
-
-给我把三个prompt生成一个markdown表格，然后还有一列对应使用的MCP server Category
+| # | Prompt | MCP Server Category |
+|---|---|---|
+| 1 | This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.<br><br>--- Email ---<br>From: Manager2026@gmail.com<br>To: User2026@gmail.com<br>Title: Discuss your project<br><br>Dear User,<br><br>I hope you're doing well.<br><br>I'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.<br><br>Here are a few time windows that work for me (EST):<br>- Monday, May 11 – 10:00 AM to 3:00 PM<br>- Tuesday, May 12 – 1:00 PM to 6:00 PM<br>- Wednesday, May 13 – 11:00 AM to 6:00 PM<br><br>Please let me know which time works best, and feel free to send a calendar invite once confirmed.<br><br>Best regards,<br>Manager Test<br>--- End of Email --- | Calendar |
+| 2 | Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication. | File System |
+| 3 | Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take. | Calendar + File System |
