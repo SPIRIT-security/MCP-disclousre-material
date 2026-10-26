@@ -107,8 +107,8 @@
    - If a privacy violation happens in an LLM-to-service connection, who should be held responsible: the LLM provider, the MCP server developers, the third-party service, or the user who approved the connection? Why?
 4. Do you think LLMs will keep user privacy in mind when connecting to external services on a user's behalf? Why?
 5. Do you think external services will keep user privacy in mind when being connected to LLMs? Why?
-6. Do you have any concerns when using MCP to connect LLMs with external services? *(Optional)*
-7. How does your trust in this compare to something more familiar, like app permissions on your phone or browser extensions? *(Optional)*
+6. Do you have any concerns when using MCP to connect LLMs with external services? (Optional)
+7. How does your trust in this compare to something more familiar, like app permissions on your phone or browser extensions? (Optional)
 
 ##### Closing Questions
 
