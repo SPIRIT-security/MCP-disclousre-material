@@ -12,7 +12,7 @@ The repository includes the following resources:
 1. Anonymized Codebook
 
 The anonymized codebook used for the qualitative analysis of the exit interviews is provided in codebook.pdf.
-It lists the themes and codes we identified, with a definition for each code and representative participant quotes. All personally identifiable information has been removed, and participants are referred to by ID only (e.g., P1, P2).
+It lists the themes and codes we identified, with a definition for each code. All personally identifiable information has been removed.
 
 2. Study Procedure
 
