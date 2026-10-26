@@ -69,4 +69,3 @@ Manager Test
 3. Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take.
 
 给我把三个prompt生成一个markdown表格，然后还有一列对应使用的MCP server Category
-
