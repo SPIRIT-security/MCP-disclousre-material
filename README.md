@@ -1,11 +1,11 @@
 ## Research Data Repository
-Overview
+### Overview
 
 This website provides anonymized materials related to our research.
 All data have been carefully anonymized to protect participant privacy and to ensure ethical transparency.
 The designer-centric study (e.g., design tasks, interviews, and surveys) was reviewed and approved by the Institutional Review Board (IRB) of our institution.
 
-#### contents
+### Contents
 
 The repository includes the following resources:
 
