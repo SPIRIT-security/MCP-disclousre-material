@@ -1,6 +1,8 @@
 ## Online Study
 
-example of Process: <img src="figma_make.png" width="600">
+**Example of Process:**
+
+<img src="images/llm_simulator_flow_web.png" width="900">
 
 
 | # | Prompt | MCP Server Category |
