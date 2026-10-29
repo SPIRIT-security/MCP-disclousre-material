@@ -2,7 +2,7 @@
 
 **Example of Process:**
 
-<img src="images/llm_simulator_flow_web.png" width="900">
+<img src="images/online_study_overall.png" width="900">
 
 
 | # | Prompt | MCP Server Category |
