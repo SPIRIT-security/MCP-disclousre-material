@@ -19,6 +19,11 @@ It lists the themes and codes we identified, with a definition for each code. Al
 The complete study procedure is described in detail in study.md.
 These materials are provided to support reproducibility and transparency in the research methodology.
 
+3. Online Study Materials
+
+The materials used in the online user study are provided in Online_study_material.md.
+This file includes the overall flowchart of the study process, as well as all questions from the post-scenario assessments and the post-study survey.
+
 Ethical Considerations
 
 All materials have been anonymized according to institutional and ethical guidelines.
