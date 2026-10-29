@@ -22,7 +22,7 @@ These materials are provided to support reproducibility and transparency in the 
 3. Online Study Materials
 
 The materials used in the online user study are provided in Online_study_material.md.
-This file includes the overall flowchart of the study process, as well as all questions from the post-scenario assessments and the post-study survey.
+This file includes the overall flowchart of the online study process, as well as all questions from the post-scenario assessments and the post-study survey.
 
 Ethical Considerations
 
