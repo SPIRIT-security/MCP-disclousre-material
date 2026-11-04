@@ -35,21 +35,6 @@ What data do you think the Google Calendar MCP server can receive from Claude in
 - [ ] F. The user's email history
 - [ ] G. I am not sure
 
-
-#### Q3
-How useful do you find the information provided during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
-
-#### Q4
-How much do you concern yourself with the privacy of the data flow during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
-
 ---
 
 ### Filesystem Scenario Task
@@ -69,20 +54,6 @@ What data do you think the Filesystem MCP server can receive from Claude in this
 - [ ] B. The file paths to be checked
 - [ ] C. The search pattern (keywords) such as "medical"
 - [ ] D. I am not sure
-
-#### Q3
-How useful do you find the information provided during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
-
-#### Q4
-How much do you concern yourself with the privacy of the data flow during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
 
 ---
 
@@ -125,19 +96,6 @@ What data do you think the Filesystem MCP server can receive from Claude in this
 - [ ] C. The search pattern (keywords) such as "medical"
 - [ ] D. I am not sure
 
-#### Q3
-How useful do you find the information provided during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
-
-#### Q4
-How much do you concern yourself with the privacy of the data flow during the chat?
-
-| 1 | 2 | 3 | 4 | 5 |
-|:-:|:-:|:-:|:-:|:-:|
-| ○ | ○ | ○ | ○ | ○ |
 
 ---
 
