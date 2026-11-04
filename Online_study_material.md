@@ -219,7 +219,7 @@ The format in which information was presented made it easier to process the info
 |:-:|:-:|:-:|:-:|:-:|
 | ○ | ○ | ○ | ○ | ○ |
 
-### Perceived Usability
+### Perceived Effort
 
 #### Q18
 I felt frustrated while reading the information.
